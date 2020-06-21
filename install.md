@@ -1,10 +1,10 @@
 # Install
 
-In order to create your website, go to the following link and copy the Sheet:
+In order to create your website, go to the following link and copy the sheet:
 
 https://docs.google.com/spreadsheets/d/1VVuc6y1DW_6Y7N3LtR1R0e62EmbsFWTOxYT_Yq1g-OU/copy
 
-This sheet is like a base template for all templates, so you can use as starting point. After copying it,
+This sheet is like a base template for all templates, so you can use as starting point. Also you can choose from Examples page too. After copying it,
 
 1. Click Add-ons > Sheetly > Register (Skip this if you already registered)
 2. Accept permissions when you see this authorization screen
