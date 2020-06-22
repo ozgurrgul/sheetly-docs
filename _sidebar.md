@@ -2,6 +2,8 @@
 
   - [Install](install.md)
   - [Examples](examples.md)
+  - [Multi Language Website](multilang.md)
+  - [Custom Domain](customdomain.md)
   - [Settings Sheet](settings.md)
   - [Hero Sheet](hero.md)
   - [Features Sheet](features.md)
