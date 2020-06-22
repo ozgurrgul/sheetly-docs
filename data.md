@@ -1,12 +1,18 @@
 # Data Sheet
 
-<b>Data</b> sheet is used to showcase data that you wish. You can choose from following Data shown styles:
+<b>Data</b> sheet is used to showcase data that you want. You can choose from following Data shown styles:
 
 - Accordion
 - Gallery
 - Datatable
 
 ![Image](https://sheetly.s3.amazonaws.com/docs/data-accordion.png)
+
+You can see some examples that use Data sheet:
+
+- [Gallery Example 1](https://site.sheetly.page/1zQAShpyzx2xP49z1q4N_K0OEueRYqp_EsvaPmQ3usLI)
+- [Gallery Example 2](https://site.sheetly.page/1YDmzssdxg9DYkTiPurFiK2dNuSUiKzbvGriX7VwGFH4)
+- [Gallery Example 3](https://site.sheetly.page/1bKGzWHB2tnbfqMhkLhfoLCSucPX7rIOr685R1VLH9qM)
 
 ?> Data configurations located in <b>Settings</b> sheet
 
