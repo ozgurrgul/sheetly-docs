@@ -4,6 +4,7 @@
   - [Examples](examples.md)
   - [Multi Language Website](multilang.md)
   - [Custom Domain](customdomain.md)
+    <hr style="border: 1px solid #efefef;">
   - [Settings Sheet](settings.md)
   - [Hero Sheet](hero.md)
   - [Features Sheet](features.md)
