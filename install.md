@@ -11,6 +11,8 @@ This sheet is like a base template for all templates, so you can use as starting
 
 ![Image](https://sheetly.s3.amazonaws.com/docs/oauth.png)
 
+(After accepting permissions, click Add-ons > Sheetly > Register again)
+
 3. Share your document: <b>Anyone can view with the link</b>
 4. Edit cells as your needs (except <u>formulas</u>)
 5. In order to update the changes in your website, you need to publish. Click <b>Publish your website</b>

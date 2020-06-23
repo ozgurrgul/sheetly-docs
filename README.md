@@ -4,8 +4,9 @@ Sheetly is a website builder, completely based on Google Sheets. With Sheetly, y
 
 - For your startup
 - For your idea
-- To display items (such as gallery, datatable etc)
+- To display items (such as in a gallery, datatable etc)
 - To sell items
-- Multi language websites
+
+You can event create multi-language websites easily!
 
 See [install](/install) page for more information.
