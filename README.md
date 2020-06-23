@@ -9,4 +9,4 @@
 
 You can event create multi-language websites easily!
 
-See [install](/install) page for more information.
+See [install](https://ozgurrgul.github.io/sheetly-docs/#/install) page for more information.
