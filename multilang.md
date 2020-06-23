@@ -7,7 +7,7 @@ In the following example, our english website holds all the texts and I translat
 - [Startup Website (English)](https://my-company.xyz)
 - [Startup Website (Spanish)](https://es.my-company.xyz)
 
-I only used the following formula for the cells that I want to translate to spanish:
+For example, I only used the following formula for the cell that I want to translate to spanish:
 
 ?> =GOOGLETRANSLATE(IMPORTRANGE("1iJbJDrnrJj_CgKfGnL78MHOpjjKKFIO1GKgNfT6fUVU","Team!B4"), "en", "es")
 
