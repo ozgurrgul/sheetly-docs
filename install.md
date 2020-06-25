@@ -1,6 +1,6 @@
 # Install
 
-In order to create your website, go to the following link and copy the sheet:
+In order to create your first website from your Google Sheets, go to the following link and copy the sheet:
 
 https://docs.google.com/spreadsheets/d/1VVuc6y1DW_6Y7N3LtR1R0e62EmbsFWTOxYT_Yq1g-OU/copy
 

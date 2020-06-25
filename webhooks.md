@@ -8,7 +8,7 @@ This link simply triggers re-render of your website thus updates it with the lat
 
 - You have a Google Forms and you want to update your Sheetly website automatically when someone submits new form response
 - You have a Sheetly website and you want to update it automatically every hour etc
-- Or more
+- ...
 
 You can open your Sheetly website's Webhook url in a browser or call from an external webservice etc and it will work.
 
