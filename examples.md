@@ -8,3 +8,4 @@ I listed some of the examples websites that made by Sheetly for demonstration pu
 - [Gallery Example 1](https://site.sheetly.page/1zQAShpyzx2xP49z1q4N_K0OEueRYqp_EsvaPmQ3usLI)
 - [Gallery Example 2](https://site.sheetly.page/1YDmzssdxg9DYkTiPurFiK2dNuSUiKzbvGriX7VwGFH4)
 - [Gallery Example 3](https://site.sheetly.page/1bKGzWHB2tnbfqMhkLhfoLCSucPX7rIOr685R1VLH9qM)
+- [Accordion Example 1](https://site.sheetly.page/1FJYSkRN4Yk1SrmwKwSvUX7xu2gTSrAi9zswxhBwHf9E)
