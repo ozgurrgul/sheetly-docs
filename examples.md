@@ -9,3 +9,5 @@ I listed some of the examples websites that made by Sheetly for demonstration pu
 - [Gallery Example 2](https://site.sheetly.page/1YDmzssdxg9DYkTiPurFiK2dNuSUiKzbvGriX7VwGFH4)
 - [Gallery Example 3](https://site.sheetly.page/1bKGzWHB2tnbfqMhkLhfoLCSucPX7rIOr685R1VLH9qM)
 - [Accordion Example 1](https://site.sheetly.page/1FJYSkRN4Yk1SrmwKwSvUX7xu2gTSrAi9zswxhBwHf9E)
+- [Datatable Example 1](https://site.sheetly.page/1gJIhpa9L3ukzv37P_l2djMFoi8wPa6eHnjauYEzA1BQ)
+- [Datatable Example 2](https://site.sheetly.page/105GD9bwMtR7bgHGGJZsHy9DV5GMWANN4AkwI_eIgSGg)
