@@ -23,4 +23,10 @@ If you will have a multi language website, you can edit like following screensho
 
 Your old visitors will be redirected to your new domain.
 
-If you have any question, don't hesitate to e-mail me.
+---
+
+!> After configuring above steps, please shot me a DM in twitter @ozgurrgul or reach me through email (ozgurgul @ yandex com) with the following information so I can set up SSL certificate for you:
+
+* Your domain
+* Your sheet id
+* Your email
