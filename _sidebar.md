@@ -16,5 +16,6 @@
   - [Pricing Sheet (sell with Stripe)](pricing.md)
   - [FAQ Sheet](faq.md)
   - [CTA Sheet](cta.md)
+  - [Form Sheet](form.md)
   - [Footer Sheet](footer.md)
   - [OtherPages Sheet](otherpages.md)

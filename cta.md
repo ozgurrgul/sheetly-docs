@@ -20,7 +20,7 @@ Should this block be hidden or not
 
 ### background color
 
-Background color of this block. Choose a nice color that represents your brand or yourself
+Background color of this block
 
 ### text color
 
