@@ -13,20 +13,19 @@ That means, visitors can access to your website with that link. However, if you 
 Add **A** record with **@** host value that points to **64.227.16.94**.
 If you will have a multi language website, you can edit like following screenshot:
 
-![Image](https://sheetly.s3.amazonaws.com/docs/Screenshot+from+2020-06-22+12-22-10.png)
-(I added one root domain, and one for spanish version)
+![Image](https://sheetly.s3.amazonaws.com/docs/Screenshot%2Bfrom%2B2020-06-22%2B12-22-10.png)
 
 4. In your Google Sheet, go to **Settings** sheet and edit **B17** column with your domain
 5. Publish your website
 6. Visit your domain
 7. Voila!
 
-Your old visitors will be redirected to your new domain.
+?> Your visitors will be redirected to your new domain if they visit your sheetly.page url.
 
 ---
 
-!> After configuring above steps, please shot me a DM in twitter @ozgurrgul or reach me through email (ozgurgul @ yandex com) with the following information so I can set up SSL certificate for you:
+!> **Important**: After configuring above steps, please shot me a DM in twitter @ozgurrgul or reach me through email (ozgurgul @ yandex com) with the following information so I can set up SSL certificate for you:
 
-* Your domain
-* Your sheet id
-* Your email
+- Your domain
+- Your sheet id
+- Your email

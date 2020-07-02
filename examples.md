@@ -2,6 +2,8 @@
 
 I listed some of the examples websites that made by Sheetly for demonstration purposes. There is a link to individiual Google Sheets in each website if you wish to use.
 
+?> Be sure you installed [installed](/install.md) Sheetly add-on before copying an example sheet.
+
 - [Sheetly Base Template](https://site.sheetly.page/1VVuc6y1DW_6Y7N3LtR1R0e62EmbsFWTOxYT_Yq1g-OU)
 - [Startup Example 1](https://site.sheetly.page/12VaUfZ6pANCxQy4LA4TLvlIi2pe2_6fH0dLJUcPjDWc)
 - [Startup Example 2](https://site.sheetly.page/1E52SYOEhTH7s5ZXMx3U_CZ2oOZniRqY4ZoS1CGqS_sI)
