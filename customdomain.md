@@ -8,10 +8,9 @@ That means, visitors can access to your website with that link. However, if you 
 
 1. Buy a domain if you don't have
 2. Upgrade your Sheetly account to [PRO](https://sheetly.page)
-3. Edit your domains DNS account like the following configuration:
+3. Edit your domains DNS account like the following configuration in your domain provider panel:
 
-Add **A** record with **@** host value that points to **64.227.16.94**.
-If you will have a multi language website, you can edit like following screenshot:
+Add **A** record with **@** host value that points to **64.227.16.94**:
 
 ![Image](https://sheetly.s3.amazonaws.com/docs/Screenshot%2Bfrom%2B2020-06-22%2B12-22-10.png)
 

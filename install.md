@@ -10,8 +10,6 @@ Follow the steps in order to create your first website under minutes:
 6. To preview, click <b>See your website</b>
 7. Voila! Your website is ready for your visitors.
 
-?> Yes, these sheets are like a giant database for your website. Make sure you publish your website after making changes to the sheets
-
----
+?> Make sure you publish your website after making changes to the sheets
 
 ?> **Can I use a custom domain?**: Yes, check [custom domain](/customdomain.md) help page.

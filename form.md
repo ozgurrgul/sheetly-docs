@@ -1,6 +1,6 @@
 # Form Sheet
 
-<b>Form</b> sheet contains the form responses and button name configurations. When a visitor presses a button after completing the form, the responses will be seen in your Form sheet!
+<b>Form</b> sheet contains the form responses and button name configurations. When a visitor presses **Send** button after completing the form, the responses will be seen in your Form sheet!
 
 !> Make sure you share your Spreadsheet with the **sheetlyserviceacc@sheetly-279708.iam.gserviceaccount.com** email and give it **Editor** permission.
 

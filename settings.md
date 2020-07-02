@@ -62,7 +62,7 @@ Put the Google analytics id that you created before. It must be in format of UA-
 
 ### 💲 stripe publishable api key
 
-[Stripe](https://stripe.com/) is a service that allows you to accept payments from your customers. You must put your Publishable key if you want to sell items in the Pricing block
+[Stripe](https://stripe.com/) is a service that allows you to accept payments from your customers. You must put your Publishable key if you want to sell items in the [Pricing](/pricing.md) block
 
 ### 🌐 custom domain
 
