@@ -14,4 +14,4 @@ You can open your Sheetly website's Webhook url in a browser or call from an ext
 
 ---
 
-**Where is my webhook URL?** Reach me through twitter or e-mail with your Google Sheet document id and I'll give your special webhook URL.
+**Where is my webhook URL?** Reach me through twitter (Qozgurrgul) or e-mail (ozgurgul @ yandex.com) with your Google Sheet document id and I'll give your special webhook URL.
