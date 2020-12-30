@@ -2,8 +2,8 @@
 
 Follow the steps in order to create your first website under minutes:
 
-1. Go to the following link and install the Sheetly add-on: https://gsuite.google.com/marketplace/app/sheetly/920611906181
-2. Go to the following link and create a sheet: https://docs.google.com/spreadsheets/
+1. Go to the following link and create a sheet: https://docs.google.com/spreadsheets/
+2. Click Add-ons > Get add-ons and search for _Sheetly_ and install
 3. Click Add-ons > Sheetly > Register (Skip this if you already registered)
 4. Share your document: <b>Anyone can view with the link</b>
 5. Edit cells as your needs (except <u>formulas</u>)
